@@ -1,0 +1,22 @@
+
+p, li {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+p{
+    text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 49, 141);
+    text-align:center;
+}
+
+.links {
+    background-color: brown;
+    text-align: center;
+}
